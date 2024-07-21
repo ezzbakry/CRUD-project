@@ -1,0 +1,12 @@
+.content{
+    display: inline-flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+.main{
+    width: 10vw;
+
+}
+.main2{
+    width: 10vw;
+}
